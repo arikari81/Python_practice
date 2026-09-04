@@ -167,7 +167,7 @@ while True:
             print("kindly select from 1 to 9 only")
     
     except ValueError:
-        print("kindly enter a valid number between 1 and 9 as per the list")
+        print("kindly enter a valid integer value between 1 and 9 as per the list")
         
     
             
